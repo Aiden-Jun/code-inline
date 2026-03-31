@@ -1,0 +1,4 @@
+pyside6
+torch
+tokenizers
+psutil
