@@ -1,4 +1,4 @@
-# code-inline
+# krait
 
 A lightweight GPT style code completion model
 
