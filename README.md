@@ -1,4 +1,4 @@
-# krait
+# lner
 
 A lightweight GPT style code completion model
 
